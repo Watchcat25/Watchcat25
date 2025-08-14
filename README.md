@@ -60,25 +60,12 @@ My experience spans AWS and Azure environments, PKI validation (Keyfactor), Splu
 ---
 
 ## 🎓 Certifications
-AWS Solutions Architect • CompTIA A+ • Network+ • Security+ • PMP • ITIL • Certified ScrumMaster  
-Healthcare/Clinical Mgmt • Essentials of Clinical Research • Nursing Leadership & Care Mgmt • MIS Diploma
-
----
-
-## 🧪 How I Work
-- Clear, reproducible docs and runbooks
-- Automation-first (CI checks for Python/Terraform/SQL/PowerShell)
-- Evidence-driven validation for audits and compliance
+AWS Certified Solutions Architect • CompTIA A+ • Network+ • Security+ • PMP • ITIL • Diploma in Information Technology Support
 
 ---
 
 ## 📬 Connect
 - Email: <a href="mailto:contact@example.com">pauladeranti@outlook.com</a>
 
----
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Watchcat25&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watchcat25&layout=compact)
-
-<sub>© 2025 Wole — If it’s not automated, it’s a draft.</sub>
+<sub>© Paul A                                                        IT Specialist Portfolio - Paul A</sub>
