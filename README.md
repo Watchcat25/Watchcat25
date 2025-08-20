@@ -38,7 +38,7 @@ and monitoring insights with Splunk, and handled networking tasks including fire
 > Links will work once you create each repo. Use these names exactly when you make them.
 
 - **Cloud & Infra**
-  - [Home Assistant on Azure](https://github.com/Watchcat25/home-assistant-on-azure) — backups to Blob, Azure Monitor, optional custom domain
+  - [Home Assistant on Azure](https://github.com/Watchcat25/azure-cloud-portfolio) — backups to Blob, Azure Monitor, optional custom domain
   - [VM Provisioning Lab](https://github.com/Watchcat25/vm-provisioning-lab) — Hyper‑V/VirtualBox/VMware scripts & docs
 
 - **Data & SQL**
