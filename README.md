@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Paul Aderanti 👋</h1>
 <p align="center">
-<b>Senior IT Specialist</b> — Cloud • Databases • Security Validation • Automation • Networking
+<b>Senior IT Specialist</b> — Technical/Application Support • Cloud • Databases • Security Validation • Automation • Networking
 </p>
 
 ---
