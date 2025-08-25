@@ -6,10 +6,7 @@
 ---
 
 ## 🧭 About Me
-I'm a Senior IT Specialist with hands-on experience in spinning up and managing Windows and Linux virtual machines, administering and tuning SQL databases, 
-and providing technical and application support across diverse environments. I specialize in validating cloud infrastructure on AWS and Azure to ensure compliance, 
-security, and performance. I've also worked on PKI integration projects involving Keyfactor Command and ServiceNow, developed dashboards 
-and monitoring insights with Splunk, and handled networking tasks including firewall rules and router configurations.
+I am a Senior IT Specialist with extensive experience in deploying and managing Windows and Linux virtual machines, administering and optimizing SQL databases, and delivering both technical and application support in diverse environments. My expertise includes validating AWS and Azure cloud infrastructure to ensure compliance, security, and performance. I have developed monitoring dashboards and insights using Splunk, and managed networking responsibilities such as firewall configurations and router management.
 
 **Quick highlights**
 - 🚀 Improved system performance by <b>~30%</b> using Splunk-driven analysis and query tuning
