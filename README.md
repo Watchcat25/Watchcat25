@@ -24,7 +24,7 @@ I am a Senior IT Specialist with extensive experience in deploying and managing 
 | --- | --- |
 | Cloud | AWS (EC2, S3, IAM), Azure (VMs, Storage, Monitor), Terraform |
 | Databases | SQL Server (partitioning, indexing, backup/restore, Agent jobs, Security) |
-| Security & Compliance | PKI (Keyfactor), validation docs (IQ/OQ/PQ), change control, evidence capture |
+| Security & Compliance | PKI, validation docs (IQ/OQ/PQ), Deployment Specification, change control, evidence capture |
 | Observability | Splunk dashboards, saved searches, case studies |
 | Automation & DevOps | Python (FastAPI), PowerShell, GitHub Actions CI, shell scripts |
 | Networking | OpenWRT, VLANs, firewall rules, QoS; Hyper‑V/VirtualBox/VMware for labs |
