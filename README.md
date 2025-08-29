@@ -34,7 +34,7 @@ I am a Senior IT Specialist with extensive experience in deploying and managing 
 ## 📂 Featured Projects
 > Links will work once you create each repo. Use these names exactly when you make them.
 
-- **Cloud & Infra**
+- **Cloud & Infrastructure**
   - [Home Assistant on Azure](https://github.com/Watchcat25/azure-cloud-portfolio) — backups to Blob, Azure Monitor, optional custom domain
   - [VM Provisioning Lab](https://github.com/Watchcat25/vm-provisioning-lab) — Hyper‑V/VirtualBox/VMware scripts & docs
 
