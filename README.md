@@ -1,12 +1,18 @@
 <h1 align="center">Hi, I'm Paul Aderanti 👋</h1>
 <p align="center">
-<b>Senior IT Specialist</b> — Technical/Application Support • Cloud • Databases • Security Validation • Automation • Networking
+<b>Senior IT Specialist</b> —  Cloud • Databases • Security Validation • Automation • Networking • Technical/Application Support
 </p>
 
 ---
 
 ## 🧭 About Me
-I am a Senior IT Specialist with extensive experience in deploying and managing Windows and Linux virtual machines, administering and optimizing SQL databases, and delivering both technical and application support in diverse environments. My expertise includes validating AWS and Azure cloud infrastructure to ensure compliance, security, and performance. I have developed monitoring dashboards and insights using Splunk, and managed networking responsibilities such as firewall configurations and router management.
+About Me
+
+I’m a Senior IT Specialist and Validation Engineer with hands-on experience validating cloud infrastructure and applications across AWS and Azure. I specialize in ensuring systems meet regulatory and security requirements in highly controlled environments like healthcare and pharma.
+
+My work sits at the intersection of compliance and technology. I’ve led validation efforts for cloud migrations, SaaS integrations, and PKI implementations—tracking everything from IQ/OQ/PQ to audit trails in ServiceNow. I also build automation scripts, manage test evidence, and collaborate across cross-functional teams to deliver systems that are both functional and audit-ready.
+
+Beyond work, I’m building a lab portfolio and business brand (PaulHardys Global) to support cloud, cybersecurity, and compliance training for new IT professionals.
 
 **Quick highlights**
 - 🚀 Improved system performance by <b>~30%</b> using Splunk-driven analysis and query tuning
