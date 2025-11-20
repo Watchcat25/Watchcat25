@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paul Aderanti 👋</h1>
+<h1 align="center">Hi, I'm Paul Aderanti </h1>
 <p align="center">
 <b>Senior IT Specialist</b> —  Cloud • Databases • Security Validation • Automation • Networking • Technical/Application Support
 </p>
