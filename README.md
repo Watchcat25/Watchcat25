@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Paul Aderanti </h1>
 <p align="center">
-<b>Senior IT Specialist</b> —  Cloud • Databases • Security Validation • Automation • Networking • Technical/Application Support
+<b>Senior IT Specialist</b> —  Cloud • Validation • AI • Automation • Support Engineering • Security  
+Senior IT Specialist | Cloud & Application Validation | Technical Support Engineering
+
 </p>
 
 ---
@@ -8,7 +10,8 @@
 ## 🧭 About Me
 About Me
 
-I’m a Senior IT Specialist and Validation Engineer with hands-on experience validating cloud infrastructure and applications across AWS and Azure. I specialize in ensuring systems meet regulatory and security requirements in highly controlled environments like healthcare and pharma.
+I’m a Senior IT Specialist with hands-on experience validating cloud infrastructure, SaaS applications, and security systems across AWS and Azure.  
+I work across cloud engineering, validation, automation, and support — ensuring critical systems meet regulatory, security, and operational requirements in controlled environments such as healthcare and pharma.
 
 My work sits at the intersection of compliance and technology. I’ve led validation efforts for cloud migrations, SaaS integrations, and PKI implementations—tracking everything from IQ/OQ/PQ to audit trails in ServiceNow. I also build automation scripts, manage test evidence, and collaborate across cross-functional teams to deliver systems that are both functional and audit-ready.
 
@@ -18,8 +21,21 @@ My work sits at the intersection of compliance and technology. I’ve led valida
 - 🕒 Led upgrades with <b>&lt;2% downtime</b>
 - 🔐 Validated SaaS-based <b>PKI</b> integrations (Keyfactor Command + ServiceNow), authoring IQ/OQ/PQ
 - 🤖 Built automation agents for email/Sheets/Calendar (WoleBot)
+- 🤖 Built Chatbots using Cloudflare Workers + OpenAI  
 - 🖥️ Spin up Windows/Linux <b>virtual machines</b> for labs and projects
 - 📶 Set up and harden <b>OpenWRT</b> routers (VLANs, firewall, QoS)
+
+---
+**What I Do**
+
+- Cloud engineering (AWS, Azure, Cloudflare Workers)  
+- Infrastructure validation (QSR workflows, evidence testing, cloud qualification)  
+- AI assistants for validation, compliance, and general automation  
+- Backend/API troubleshooting, logs, debugging, error analysis  
+- Splunk dashboards, case studies, performance investigations  
+- Chatbots, API agents, serverless tools, and automation workflows  
+
+
 
 ---
 
@@ -27,11 +43,11 @@ My work sits at the intersection of compliance and technology. I’ve led valida
 
 | Category | Tools / Skills |
 | --- | --- |
-| Cloud | AWS (EC2, S3, IAM), Azure (VMs, Storage, Monitor), Terraform |
+| Cloud | AWS (EC2, S3, IAM), Azure (VMs, Storage, Monitor), Serverless, Terraform, Blob Storage |
 | Databases | SQL Server (partitioning, indexing, backup/restore, Agent jobs, Security) |
 | Security & Compliance | PKI, validation docs (IQ/OQ/PQ), Deployment Specification, change control, evidence capture |
-| Observability | Splunk dashboards, saved searches, case studies |
-| Automation & DevOps | Python (FastAPI), PowerShell, GitHub Actions CI, shell scripts |
+| Observability | Splunk dashboards, imports + documentation   |
+| **AI & Automation | OpenAI API • LLM Agents • RAG • Chatbots • CI/CD • GitHub Actions • Python (FastAPI) • PowerShell • Automation scripts |
 | Networking | OpenWRT, VLANs, firewall rules, QoS; Hyper‑V/VirtualBox/VMware for labs |
 
 ---
@@ -52,7 +68,7 @@ My work sits at the intersection of compliance and technology. I’ve led valida
   - [Cloud Validation Toolkit](https://github.com/Watchcat25/aws-azure-validation-toolkit) — AWS/Azure checks with evidence export
 
 - **Automation & AI**
-  - [WoleBot Automation Agent](https://github.com/Watchcat25/wolebot-automation-agent) — email/Sheets/Calendar + interview support
+  - Cloudflare Worker Chatbot (InterviewBOT)** — OpenAI-powered assistant with custom UI   
 
 - **Observability**
   - [Splunk Productivity Dashboards](https://github.com/Watchcat25/splunk-productivity-dashboards) — imports + case study
