@@ -68,7 +68,7 @@ My work sits at the intersection of compliance and technology. I’ve led valida
   - [Cloud Validation Toolkit](https://github.com/Watchcat25/aws-azure-validation-toolkit) — AWS/Azure checks with evidence export
 
 - **Automation & AI**
-  - Cloudflare Worker Chatbot (InterviewBOT)** — OpenAI-powered assistant with custom UI   
+  - Cloudflare Worker Chatbot (InterviewBOT)** — OpenAI-powered assistant with custom UI  https://nextgensystems.co/ 
 
 - **Observability**
   - [Splunk Productivity Dashboards](https://github.com/Watchcat25/splunk-productivity-dashboards) — imports + case study
