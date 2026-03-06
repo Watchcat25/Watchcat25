@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Paul Aderanti </h1>
 <p align="center">
 <b>Senior IT Specialist</b> —  Cloud • Validation • AI • Automation • Support Engineering • Security  
-Senior IT Specialist | Cloud & Application Validation | Technical Support Engineering | Softwar Engineer
+Senior IT Specialist | Cloud & Application Validation | Technical Support Engineering | Software Engineering
 
 </p>
 
@@ -33,7 +33,7 @@ My work sits at the intersection of compliance and technology. I’ve led valida
 - AI assistants for validation, compliance, and general automation  
 - Backend/API troubleshooting, logs, debugging, error analysis  
 - Splunk dashboards, case studies, performance investigations  
-- Chatbots, API agents, serverless tools, and automation workflows  
+- Software Engineering, Chatbots, API agents, serverless tools, and automation workflows  
 
 
 
