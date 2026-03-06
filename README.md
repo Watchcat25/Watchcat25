@@ -11,7 +11,7 @@ Senior IT Specialist | Cloud & Application Validation | Technical Support Engine
 About Me
 
 I’m a Senior IT Specialist with hands-on experience validating cloud infrastructure, SaaS applications, and security systems across AWS and Azure.  
-I work across cloud engineering, validation, automation, and support — ensuring critical systems meet regulatory, security, and operational requirements in controlled environments such as healthcare and pharma.
+I work across cloud engineering, validation, automation, and support ensuring critical systems meet regulatory, security, and operational requirements in controlled environments such as healthcare and pharma.
 
 My work sits at the intersection of compliance and technology. I’ve led validation efforts for cloud migrations, SaaS integrations, and PKI implementations—tracking everything from IQ/OQ/PQ to audit trails in ServiceNow. I also build automation scripts, manage test evidence, and collaborate across cross-functional teams to deliver systems that are both functional and audit-ready.
 
@@ -82,8 +82,7 @@ My work sits at the intersection of compliance and technology. I’ve led valida
 AWS Certified Solutions Architect • CompTIA A+ • Network+ • Security+ • PMP • ITIL • Diploma in Information Technology Support
 
 ---
-
-## 📬 Connect
+## 🤝 Connect with me
 - Email: <a href="mailto:contact@example.com">pauladeranti@outlook.com</a>
 
 
