@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Paul Aderanti </h1>
 <p align="center">
 <b>Senior IT Specialist</b> —  Cloud • Validation • AI • Automation • Support Engineering • Security  
-Senior IT Specialist | Cloud & Application Validation | Technical Support Engineering
+Senior IT Specialist | Cloud & Application Validation | Technical Support Engineering | Softwar Engineer
 
 </p>
 
